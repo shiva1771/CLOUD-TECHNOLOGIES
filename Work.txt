@@ -1,0 +1,4 @@
+IEEE Transactions on Dependable and Secure Computing,Volume:19, Issue:1,Issue Date:01.Jan.-Feb.2022
+
+
+Achieving Efficient Secure Deduplication With User-Defined Access Control in Cloud
